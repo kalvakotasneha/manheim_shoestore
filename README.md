@@ -1,1 +1,1 @@
-# manheim_shoestore
+Code for Shoestore Manheim webautomation
